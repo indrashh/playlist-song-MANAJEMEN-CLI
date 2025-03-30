@@ -1,0 +1,25 @@
+[
+   {
+      "id": 1,
+      "album": "queen",
+      "songs": []
+   },
+   {
+      "id": 2,
+      "album": "tame impala",
+      "songs": [
+         {
+            "id": 1,
+            "name": "bohemian rapsody",
+            "duration": 200,
+            "genre": "Rock"
+         },
+         {
+            "id": 2,
+            "name": "darasora",
+            "duration": "200",
+            "genre": "Rock"
+         }
+      ]
+   }
+]
